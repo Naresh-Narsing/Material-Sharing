@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">"Material Sharing "</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="image">image</string>
+    <string name="desc">Where Are You Now When I Need You, Can\'t Find You AnyWhere</string>
+
+    <string name="italic">Friday 19 APRIL.</string>
+    <string name="duplicate">DUPLICATE</string>
+    <string name="schedule">SCHEDULE</string>
+    <string name="delete">DELETE</string>
+
+</resources>
